@@ -1,0 +1,7 @@
+Untuk arduino
+Library LCD: https://github.com/johnrickman/LiquidCrystal_I2C/blob/master/examples/HelloWorld/HelloWorld.pde
+
+Untuk Python
+- pip install pandas
+- pip install openpyxl
+- pip install pyserial
